@@ -49,5 +49,6 @@ yarn tailwindcss -i ./src/style.css -o ./dist/output.css --watch
 
 ## 🚀 Live Demo
 
-👉 **🔗 Live Preview:** [https://kajal-dobriyal.github.io/Insta_clone/](https://kajal-dobriyal.github.io/Insta_clone/)
+👉 [Click here to view the project](https://kajal-dobriyal.github.io/Insta_clone/)
+
 
