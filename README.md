@@ -46,3 +46,8 @@ I made this project as practice to improve my skills:
 2. If you're using Yarn and Tailwind CSS:
 ```bash
 yarn tailwindcss -i ./src/style.css -o ./dist/output.css --watch
+
+## 🚀 Live Demo
+
+👉 [Click here to view the live project](https://kajal-dobriyal.github.io/Insta_clone/)
+
