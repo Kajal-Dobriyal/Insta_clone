@@ -40,6 +40,15 @@ I made this project as practice to improve my skills:
 
 ---
 
+
+
+
+## 🚀 Live Demo
+
+👉 [Click here to view the project](https://kajal-dobriyal.github.io/Insta_clone/)
+
+
+
 ## ▶️ How to Run
 
 1. Download or clone the project
@@ -47,8 +56,6 @@ I made this project as practice to improve my skills:
 ```bash
 yarn tailwindcss -i ./src/style.css -o ./dist/output.css --watch
 
-## 🚀 Live Demo
 
-👉 [Click here to view the project](https://kajal-dobriyal.github.io/Insta_clone/)
 
 
